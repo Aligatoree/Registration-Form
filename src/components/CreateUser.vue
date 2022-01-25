@@ -164,7 +164,7 @@
             error: $v.passport.document.$error || $v.passport.date.$error,
           }"
         >
-          Пасспорт
+          Паспорт
         </h2>
       </div>
       <div v-if="passportOn">
